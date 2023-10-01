@@ -37,10 +37,10 @@
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Custom Files:</h6>
-                        <a class="collapse-item" href="patients.php">Patients</a>
-                        <a class="collapse-item" href="employees.php">Employees</a>
-                        <a class="collapse-item" href="positions.php">Positions</a>
-                        <a class="collapse-item" href="departments.php">Departments</a>
+                        <a class="collapse-item" href="#">Patients</a>
+                        <a class="collapse-item" href="#">Employees</a>
+                        <a class="collapse-item" href="#">Positions</a>
+                        <a class="collapse-item" href="#">Departments</a>
                         <a class="collapse-item" href="#">Services</a>
                         <a class="collapse-item" href="#">Categories</a>
                     </div>
@@ -58,7 +58,7 @@
                     data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Custom Transactions:</h6>
-                        <a class="collapse-item" href="walkin_cons.php">Consultation (Walk-in)</a>
+                        <a class="collapse-item" href="#">Consultation (Walk-in)</a>
                         <a class="collapse-item" href="#">Set Appointment</a>
                         <a class="collapse-item" href="#">View Appointments</a>
                         <a class="collapse-item" href="#">Cancelled Appointments</a>
